@@ -1,0 +1,10 @@
+^C:\DEV\GFX-COURSE\BUILD\_DEPS\GLFW-SUBBUILD\CMAKEFILES\8F677FD7B632A53F2278C9EBAB339FFA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/gfx-course/build/_deps/glfw-subbuild -BC:/dev/gfx-course/build/_deps/glfw-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dev/gfx-course/build/_deps/glfw-subbuild/glfw-populate.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

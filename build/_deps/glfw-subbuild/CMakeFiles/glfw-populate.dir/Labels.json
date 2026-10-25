@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/8f677fd7b632a53f2278c9ebab339ffa/glfw-populate.rule"
+		},
+		{
+			"file" : "C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/47e9ef73fd9eda2a17ded77c7fd530e4/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/9e1b86a80d59347214d11e9f4539c3db/glfw-populate-build.rule"
+		},
+		{
+			"file" : "C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/9e1b86a80d59347214d11e9f4539c3db/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/9e1b86a80d59347214d11e9f4539c3db/glfw-populate-download.rule"
+		},
+		{
+			"file" : "C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/9e1b86a80d59347214d11e9f4539c3db/glfw-populate-install.rule"
+		},
+		{
+			"file" : "C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/9e1b86a80d59347214d11e9f4539c3db/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/9e1b86a80d59347214d11e9f4539c3db/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/9e1b86a80d59347214d11e9f4539c3db/glfw-populate-test.rule"
+		},
+		{
+			"file" : "C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/9e1b86a80d59347214d11e9f4539c3db/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}

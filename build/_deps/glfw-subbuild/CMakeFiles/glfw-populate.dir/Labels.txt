@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/8f677fd7b632a53f2278c9ebab339ffa/glfw-populate.rule
+C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/47e9ef73fd9eda2a17ded77c7fd530e4/glfw-populate-complete.rule
+C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/9e1b86a80d59347214d11e9f4539c3db/glfw-populate-build.rule
+C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/9e1b86a80d59347214d11e9f4539c3db/glfw-populate-configure.rule
+C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/9e1b86a80d59347214d11e9f4539c3db/glfw-populate-download.rule
+C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/9e1b86a80d59347214d11e9f4539c3db/glfw-populate-install.rule
+C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/9e1b86a80d59347214d11e9f4539c3db/glfw-populate-mkdir.rule
+C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/9e1b86a80d59347214d11e9f4539c3db/glfw-populate-patch.rule
+C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/9e1b86a80d59347214d11e9f4539c3db/glfw-populate-test.rule
+C:/dev/gfx-course/build/_deps/glfw-subbuild/CMakeFiles/9e1b86a80d59347214d11e9f4539c3db/glfw-populate-update.rule

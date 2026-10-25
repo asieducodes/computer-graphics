@@ -1,0 +1,22 @@
+# Build output (CMake, and FetchContent's downloaded GLFW/GLM)
+build/
+out/
+cmake-build-*/
+
+# Compiled binaries (Code Runner drops these next to your .cpp files)
+*.exe
+*.obj
+*.o
+*.out
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.a
+
+# Editor and OS clutter
+.vscode/*
+!.vscode/settings.json
+.vs/
+.DS_Store
+Thumbs.db

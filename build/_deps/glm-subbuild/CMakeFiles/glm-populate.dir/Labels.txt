@@ -1,0 +1,14 @@
+# Target labels
+ glm-populate
+# Source files and their labels
+C:/dev/gfx-course/build/_deps/glm-subbuild/CMakeFiles/glm-populate
+C:/dev/gfx-course/build/_deps/glm-subbuild/CMakeFiles/28edd2065490234bb0c90e18488e81eb/glm-populate.rule
+C:/dev/gfx-course/build/_deps/glm-subbuild/CMakeFiles/e3aae181f65604432f7b75146e2b06ae/glm-populate-complete.rule
+C:/dev/gfx-course/build/_deps/glm-subbuild/CMakeFiles/ec724ac80d2b4dfaf250f8490599205c/glm-populate-build.rule
+C:/dev/gfx-course/build/_deps/glm-subbuild/CMakeFiles/ec724ac80d2b4dfaf250f8490599205c/glm-populate-configure.rule
+C:/dev/gfx-course/build/_deps/glm-subbuild/CMakeFiles/ec724ac80d2b4dfaf250f8490599205c/glm-populate-download.rule
+C:/dev/gfx-course/build/_deps/glm-subbuild/CMakeFiles/ec724ac80d2b4dfaf250f8490599205c/glm-populate-install.rule
+C:/dev/gfx-course/build/_deps/glm-subbuild/CMakeFiles/ec724ac80d2b4dfaf250f8490599205c/glm-populate-mkdir.rule
+C:/dev/gfx-course/build/_deps/glm-subbuild/CMakeFiles/ec724ac80d2b4dfaf250f8490599205c/glm-populate-patch.rule
+C:/dev/gfx-course/build/_deps/glm-subbuild/CMakeFiles/ec724ac80d2b4dfaf250f8490599205c/glm-populate-test.rule
+C:/dev/gfx-course/build/_deps/glm-subbuild/CMakeFiles/ec724ac80d2b4dfaf250f8490599205c/glm-populate-update.rule
