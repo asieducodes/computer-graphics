@@ -23,4 +23,4 @@ function(add_gl_target name)
 endfunction()
 
 add_gl_target(smoke src/main.cpp)
-add_cpp_target(rev01_basics revision/01_basics/intro.cpp)
+add_gl_target(ch01_hello_window learnopengl/01_hello_window/main.cpp)
